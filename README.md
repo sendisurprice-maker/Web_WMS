@@ -528,7 +528,7 @@ footer a:hover {
                 <a href="https://script.google.com/macros/s/AKfycbxowhyNoPAzcWnxRLYHXJ41oAO-Nnfi07sJYD0BgTkT2pn-MqsdhwMbXGSNOz4lGuntJA/exec" target="_blank">
                     <i class="fas fa-truck-loading"></i> Form Checker-Defect
                 </a>
-                <a href="inbound.html" target="_blank">
+                <a href="index.html" target="_blank">
     <i class="fas fa-warehouse"></i> Inbound Management System
 </a>
 
